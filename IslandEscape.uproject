@@ -14,10 +14,6 @@
 		{
 			"Name": "DirectInputPlugin",
 			"Enabled": false
-		},
-		{
-			"Name": "RawInput",
-			"Enabled": true
 		}
 	]
 }
