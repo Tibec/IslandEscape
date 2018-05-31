@@ -14,6 +14,13 @@
 		{
 			"Name": "DirectInputPlugin",
 			"Enabled": false
+		},
+		{
+			"Name": "DolphinInputManager",
+			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
